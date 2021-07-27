@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "dynamoose": "^2.7.3",
+    "jest": "^27.0.6",
+    "superagent": "^6.1.0",
+    "uuid": "^8.3.2"
+  },
+  "name": "serverless-api",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IbrahimAbuawad/serverless-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IbrahimAbuawad/serverless-api/issues"
+  },
+  "homepage": "https://github.com/IbrahimAbuawad/serverless-api#readme"
+}
